@@ -1,0 +1,8 @@
+{
+    "Average BLEU": 0.5214107537625815,
+    "Average Perplexity": 110.14205312606929,
+    "Average Semantic Similarity": 0.7195299220130876,
+    "Average ROUGE-1": 0.8044516151126114,
+    "Average ROUGE-2": 0.7659225573145142,
+    "Average ROUGE-L": 0.7189232376001243
+}
