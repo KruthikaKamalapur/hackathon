@@ -22,11 +22,11 @@ For datasets stored on Kaggle:
 1. Upload the dataset under the name `new-hsioa`.
 2. Update the dataset path in the notebook if necessary.
 
-## ```User Interface (Optional but Encouraged)
+## User Interface (Optional but Encouraged)
 A working prototype where users can:
 Input online text (tweets, comments, etc.)
 View sentiment/misogyny/toxicity classification results
-See highlighted words that influenced the model’s decision```
+See highlighted words that influenced the model’s decision
 
 it was implemented in 4th task, The prototype allows:
 - Input of online text .
